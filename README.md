@@ -1,10 +1,16 @@
-# Sports Scoreboard
+# cz9adVfP
 
-## This application helps you effortlessly keep track of scores for a variety of games. Track points in in 1, 2, or 3 point increments for up to two sports teams.  
+## About Scrimba
 
-I independently completed this project as part of Scrimba's Front End Web Development Bootcamp using the following skills: 
-- HTML
-- CSS
-- Vanilla JavaScript 
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
+
 
 

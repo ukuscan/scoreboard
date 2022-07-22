@@ -1,4 +1,4 @@
-# cz9adVfP
+# My Scoreboard Project
 
 ## About Scrimba
 
